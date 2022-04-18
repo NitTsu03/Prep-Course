@@ -1,0 +1,23 @@
+h1 {
+    color: #0000ff;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: #808080;
+}
+
+#spainId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+#thirdDiv {
+    padding: 50px;
+    border: 1px solid #555;
+}
